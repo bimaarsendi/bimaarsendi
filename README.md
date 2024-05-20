@@ -1,11 +1,4 @@
 - 👋 Hi, I’m @julisimanjuntak
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 <!---
 julisimanjuntak/julisimanjuntak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -20,8 +13,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 </div>
 
-### Current activities 
-- my name is julisimanjuntak
+### Current activit
 - 👨‍💻 I am Not a Programmer
 - 🌱 I am currently learning JavaScript,i am student
 - 🎯 Play Genshin Impact With Me? ID 827837081
